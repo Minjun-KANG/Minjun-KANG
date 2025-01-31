@@ -1,7 +1,7 @@
 ## Hi there 👋 
 Hello, I am working for Nangman Inc.
 
-I run a Customizable ERP SaaS, Try it. 👉 [Weekerp](https://www.weekerp.com/kr)
+I run a B2B SaaS, Try it. 👉 [Weekerp](https://www.weekerp.com/kr)
 
 ## Skills
 
